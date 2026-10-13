@@ -1,0 +1,110 @@
+
+{
+  "students": {
+    "S001": {
+      "name": "Pranav Sharma",
+      "attendance": [
+        {
+          "date": "2026-10-10",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-12",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-13",
+          "status": "Absent"
+        }
+      ]
+    },
+    "S002": {
+      "name": "Rahul Verma",
+      "attendance": [
+        {
+          "date": "2026-10-10",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "Absent"
+        },
+        {
+          "date": "2026-10-12",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-13",
+          "status": "Present"
+        }
+      ]
+    },
+    "S003": {
+      "name": "Ananya Singh",
+      "attendance": [
+        {
+          "date": "2026-10-10",
+          "status": "Absent"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-12",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-13",
+          "status": "Present"
+        }
+      ]
+    },
+    "S004": {
+      "name": "Aman Gupta",
+      "attendance": [
+        {
+          "date": "2026-10-10",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-12",
+          "status": "Absent"
+        },
+        {
+          "date": "2026-10-13",
+          "status": "Absent"
+        }
+      ]
+    },
+    "S005": {
+      "name": "Sneha Mishra",
+      "attendance": [
+        {
+          "date": "2026-10-10",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-11",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-12",
+          "status": "Present"
+        },
+        {
+          "date": "2026-10-13",
+          "status": "Present"
+        }
+      ]
+    }
+  }
+}
